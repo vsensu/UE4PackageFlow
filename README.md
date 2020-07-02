@@ -1,9 +1,18 @@
 ## UE4打包流程说明
 版本：4.25
 
-打包配置，Window -> Project Launcher
+### Code Plugin
+1. 关闭Editor
+2. 打开IDE
+3. Rebuild 插件工程
+4. 打开Editor
+5. 打开插件窗口
+6. 点击Package
+
 
 ### Game
+打包配置，Window -> Project Launcher
+
 Project: AnyProject
 
 
