@@ -4,7 +4,7 @@
 ### Code Plugin
 1. 关闭Editor
 2. 打开IDE
-3. Rebuild 插件工程
+3. Build 插件工程
 4. 打开Editor
 5. 打开插件窗口
 6. 点击Package
